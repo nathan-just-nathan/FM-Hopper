@@ -1,0 +1,1 @@
+"./LED.obj" "./main.obj" "./serial_flash.obj" "./spi.obj" "../lnk_msp430g2553.cmd" -llibc.a 
